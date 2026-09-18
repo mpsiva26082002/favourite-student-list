@@ -14,7 +14,7 @@ import {
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/favourite-student-list">
 
       <StudentProvider>
 
